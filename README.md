@@ -1,6 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=22&pause=1000&color=F70000&width=435&lines=Zohaib+aka+Cyrus+Isaac)](https://git.io/typing-svg)
-🔭 I’m currently working on Cyber sceurity<br>🌱 I’m currently learning Cryptography and OSINT<br>💬 Ask me about OSINT | Programming<br>⚡ Fun fact wanna master of all categories
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=22&pause=1000&color=F70000&width=435&lines=Zohaib+aka+Cyrus+Isaac)](https://git.io/typing-svg)🔭 I’m currently working on Cyber sceurity<br>🌱 I’m currently learning Cryptography and OSINT<br>💬 Ask me about OSINT | Programming<br>⚡ Fun fact wanna master of all categories
 
 
 ## 🌐 Socials:
